@@ -1,0 +1,20 @@
+{
+  "name": "brinko",
+  "version": "1.0.0",
+  "description": "Matt Brinkworth",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server public/",
+    "deploy": "surge public/ mattbrinkworth.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukehedger/brinko.git"
+  },
+  "author": "Matt Brinkworth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lukehedger/brinko/issues"
+  },
+  "homepage": "https://github.com/lukehedger/brinko#readme"
+}

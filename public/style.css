@@ -1,0 +1,37 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+html, body {
+  margin: 0;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+.brinko {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 32px;
+}
+
+.imessage {
+  max-width: 100%;
+}
+
+.social {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.social a {
+  margin-right: 20px;
+  display: inline-block;
+}
+
+.social a > img {
+  width: 32px;
+}
